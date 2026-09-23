@@ -1,0 +1,45 @@
+{
+    "brand":  "Te Equipamos",
+    "schema_version":  3,
+    "items":  [
+                  {
+                      "id":  1620868830,
+                      "active":  true,
+                      "type":  "sale",
+                      "sections":  [
+                                       "Ventas",
+                                       "Novedades"
+                                   ],
+                      "activities":  [
+                                         "viaje",
+                                         "trekking"
+                                     ],
+                      "product_type":  "bolsa de viaje",
+                      "title":  "SIMOND Duffle 500 Extend: una bolsa de 30 L que puede crecer hasta 40 L",
+                      "card_title":  "De 30 a 40 L en una sola bolsa: más margen para viajar sin complicarte",
+                      "seo_title":  "Bolsa SIMOND Duffle 30–40 L para viaje y trekking | Te Equipamos",
+                      "seo_description":  "Descubre la bolsa SIMOND Duffle 500 Extend de 30 a 40 L: 900 g, 3 bolsillos, tirantes acolchados y tejido repelente al agua. Precio S/289.00.",
+                      "seo_keywords":  [
+                                           "bolsa de viaje",
+                                           "duffle 30 40 L",
+                                           "SIMOND",
+                                           "trekking",
+                                           "equipaje de mano"
+                                       ],
+                      "summary":  "Una duffel SIMOND expandible, transportable como mochila o en la mano, con 3 bolsillos y formato pensado para acompañar viajes y trekking.",
+                      "details":  "Bolsa SIMOND Duffle bag 30/40 L, nueva, 900 g, expandible +10 L, 3 bolsillos, 1 compartimento, tirantes, plegable, zonas reflectantes, correa de pecho, tejido repelente al agua y formato de cabina según la ficha de origen.",
+                      "url":  "https://jorgesport.github.io/simond-duffel-500-extend-30-40l/",
+                      "image":  "https://contents.mediadecathlon.com/p2439607/k%244f6757c9dc4d80885ce4901a069819e8/picture.jpg?f=3000x0\u0026format=auto",
+                      "time":  "Novedad · Consultar disponibilidad",
+                      "featured":  false,
+                      "direct":  true,
+                      "tags":  [
+                                   "viaje",
+                                   "trekking",
+                                   "duffle",
+                                   "30-40L"
+                               ],
+                      "published_at":  "2026-09-23"
+                  }
+              ]
+}
